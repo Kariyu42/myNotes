@@ -8,4 +8,5 @@ This repo is mainly notes that I have taken through Obsidian. Helps me when I ne
 	- networking
 	- cybersecurity
 	- devops/automation
-- Draw using Excalidraw plugin exten
+- Draw using Excalidraw plugin extension
+- Put cheatsheets (pdfs)

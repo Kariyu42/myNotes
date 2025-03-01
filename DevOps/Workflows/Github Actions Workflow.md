@@ -114,4 +114,6 @@ jobs:
 ### Steps:
 
 1. Checkout Repository
-	- Uses `actions/checkout@v4` to pull the latest code into
+	- Uses `actions/checkout@v4` to pull the latest code into the runner.
+2. Set up Node.js
+	- Uses `actions/setup-node@v4` ot install Node

@@ -5,4 +5,6 @@
 
 - Trigger conditions (`on:` section):
 	- Runs on push to the `main/master` branch.
-	- Can run on any pull 
+	- Can run on any pull requests as well.
+- Jobs (`jobs:` section):
+	1.Lint & Test (`lint-test`): Checks code 

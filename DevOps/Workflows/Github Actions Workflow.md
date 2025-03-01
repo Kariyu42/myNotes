@@ -2,3 +2,6 @@
 - automates Continuous Integration and Continuous Deployment for a project.
 
 # Overview
+
+- Trigger conditions (`on:` section):
+	- Runs on push to the `main/master` branch

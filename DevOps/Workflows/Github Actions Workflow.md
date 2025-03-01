@@ -119,4 +119,8 @@ jobs:
 	- Uses `actions/setup-node@v4` to install Node.js v18.
 	- Enables npm caching for faster installs.
 3. Install dependencies
-	- Runs `npm ci` to install 
+	- Runs `npm ci` to install dependencies exactly as locked in `package-json`.
+4. Lint Code
+	- Runs `npm run lint` to check code formatting.
+5. Run tests
+- 

@@ -7,4 +7,5 @@
 	- Runs on push to the `main/master` branch.
 	- Can run on any pull requests as well.
 - Jobs (`jobs:` section):
-	1.Lint & Test (`lint-test`): Checks code 
+	1. Lint & Test (`lint-test`): Checks code quality and runs tests.
+	2. Security Check (`security-check`): scans dependencies for security vulnerab

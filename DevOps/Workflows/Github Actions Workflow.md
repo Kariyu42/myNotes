@@ -110,7 +110,6 @@ jobs:
 ## Detailed Breakdown
 
 1. The first one's job is to ensure code is formatted correctly using lint, it also runs automated tests using the `npm test` command.
-
 ### Steps:
 
 1. Checkout Repository
@@ -123,4 +122,6 @@ jobs:
 4. Lint Code
 	- Runs `npm run lint` to check code formatting.
 5. Run tests
-- 
+	- Runs `npm test`.
+	- If no tests exist, it prints "No tests found, skipping..."
+

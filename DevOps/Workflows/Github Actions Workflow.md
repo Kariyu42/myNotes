@@ -116,4 +116,7 @@ jobs:
 1. Checkout Repository
 	- Uses `actions/checkout@v4` to pull the latest code into the runner.
 2. Set up Node.js
-	- Uses `actions/setup-node@v4` ot install Node
+	- Uses `actions/setup-node@v4` to install Node.js v18.
+	- Enables npm caching for faster installs.
+3. Install dependencies
+	- Runs `npm ci` to install 

@@ -109,4 +109,5 @@ jobs:
 
 ## Detailed Breakdown
 
-1. The first one's job is to ensure c
+1. The first one's job is to ensure code is formatted correctly using lint, it also runs automated tests using the `npm test` command.
+

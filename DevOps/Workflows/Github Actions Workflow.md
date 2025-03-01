@@ -4,4 +4,5 @@
 # Overview
 
 - Trigger conditions (`on:` section):
-	- Runs on push to the `main/master` branch
+	- Runs on push to the `main/master` branch.
+	- Can run on any pull 

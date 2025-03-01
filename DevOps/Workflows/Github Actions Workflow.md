@@ -8,4 +8,6 @@
 	- Can run on any pull requests as well.
 - Jobs (`jobs:` section):
 	1. Lint & Test (`lint-test`): Checks code quality and runs tests.
-	2. Security Check (`security-check`): scans dependencies for security vulnerab
+	2. Security Check (`security-check`): scans dependencies for security vulnerabilities.
+	3. Deploy (`deploy`): Deploys the application to Vercel (but only after linting & security check pass).
+	4. Notify

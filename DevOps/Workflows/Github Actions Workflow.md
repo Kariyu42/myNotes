@@ -106,3 +106,7 @@ jobs:
           "${{ secrets.DISCORD_PUSH_NOTIF }}"
 
 ```
+
+## Detailed Breakdown
+
+1. The first one's job is to ensure c

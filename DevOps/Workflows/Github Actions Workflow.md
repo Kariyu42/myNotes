@@ -111,3 +111,7 @@ jobs:
 
 1. The first one's job is to ensure code is formatted correctly using lint, it also runs automated tests using the `npm test` command.
 
+### Steps:
+
+1. Checkout Repository
+	- Uses `actions/checkout@v4` to pull the latest code into

@@ -11,4 +11,7 @@
 
 ## Common job titles
 
-1. Security analyst
+1. Security analyst or specialist
+2. Cybersecurity analyst or specialist
+3. Security operations center (SOC) analyst
+4. Information security analyst

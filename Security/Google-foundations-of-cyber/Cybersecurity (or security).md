@@ -9,3 +9,6 @@
 - Reduces expenses
 - Maintains brand trust
 
+## Common job titles
+
+1. Security analyst

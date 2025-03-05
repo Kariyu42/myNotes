@@ -14,4 +14,3 @@ Today viruses are more commonly referred to as malware.
 ## Malware
 
 > Software designed to harm devices or networks.
-

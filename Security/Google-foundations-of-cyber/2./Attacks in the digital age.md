@@ -1,0 +1,30 @@
+```
+In the year 2000, Onel De Guzman created the LoveLetter 
+malware to steal internet login credentials. 
+This attack spread rapidly and took advantage of people who had not 
+developed a healthy suspicion for unsolicited emails. 
+Users received an email with the subject line, "I Love You." 
+Each email contained an attachment labeled, "Love Letter For You." 
+When the attachment was opened, the malware scanned a user's address book. 
+Then, it automatically sent itself to each person on the list and 
+installed a program to collect user information and passwords. 
+Recipients would think they were receiving an email from a friend, but 
+it was actually malware. 
+The LoveLetter ended up infecting 45 million computers globally 
+and is believed to have caused over $10 billion dollars in damages. 
+```
+
+The LoveLetter attack is the first example of social engineering.
+
+## Social engineering
+
+> Manipulation technique that exploits human error to gain private information, access, or valuables
+
+As a security professional it is important to identify and manage inappropriate use of technology that may place your organization and all the people associated with it at risk.
+
+Today it is common for employees to receive training on how to identify social engineering attacks. Specifically, phishing through the emails they receive.
+
+## Phishing
+
+> The use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+

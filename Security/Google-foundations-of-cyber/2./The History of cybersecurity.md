@@ -8,4 +8,7 @@
 
 ## Computer virus
 
-> Malicious code wr
+> Malicious code written to interfere with computer operations and cause damage to data and software
+
+## Malware
+

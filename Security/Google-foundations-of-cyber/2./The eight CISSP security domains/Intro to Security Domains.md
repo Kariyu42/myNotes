@@ -34,3 +34,6 @@ We may be asked to analyze user behavior within an organization. Imagine discove
 
 > Keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications.
 
+# Security assessment and testing
+
+> Conducting security control

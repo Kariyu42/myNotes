@@ -36,4 +36,5 @@ We may be asked to analyze user behavior within an organization. Imagine discove
 
 # Security assessment and testing
 
-> Conducting security control
+> Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities.
+

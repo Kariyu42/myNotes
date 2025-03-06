@@ -20,3 +20,7 @@ As a security analyst, we may be tasked with configuring a firewall.
 > [!NOTE]
 > A Firewall is a device used to monitor and filter incoming and outgoing computer network traffic.
 
+# 4. Communication and Network Security
+
+> Manage and secure physical networks and wireless communications.
+

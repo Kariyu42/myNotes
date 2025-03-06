@@ -42,3 +42,6 @@ We may be asked to analyze user behavior within an organization. Imagine discove
 
 > Conducting investigations and implementing preventative measures.
 
+# Software development security
+
+> Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applicat

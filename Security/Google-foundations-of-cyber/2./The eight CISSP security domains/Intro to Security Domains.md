@@ -18,4 +18,5 @@ Security analysts may be tasked with making sure that old equipment is properly 
 As a security analyst, we may be tasked with configuring a firewall.
 
 > [!NOTE]
-> A Fire
+> A Firewall is a device used to monitor and filter incoming and outgoing computer network traffic.
+

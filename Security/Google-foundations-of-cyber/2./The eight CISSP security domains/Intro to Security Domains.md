@@ -30,3 +30,6 @@ We may be asked to analyze user behavior within an organization. Imagine discove
 
 # Part 2
 
+# Identity and access management
+
+> Keeps 

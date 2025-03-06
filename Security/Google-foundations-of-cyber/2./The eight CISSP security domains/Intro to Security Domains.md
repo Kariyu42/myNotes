@@ -24,4 +24,4 @@ As a security analyst, we may be tasked with configuring a firewall.
 
 > Manage and secure physical networks and wireless communications.
 
-We may be asked to analyze user behavior within an organization. Imagine discovering that users are connecting to unsecure
+We may be asked to analyze user behavior within an organization. Imagine discovering that users are connecting to unsecured wireless hotspots. This could leave the organization and its employees vulnerable to attacks. To ensure communications are secure, you wou

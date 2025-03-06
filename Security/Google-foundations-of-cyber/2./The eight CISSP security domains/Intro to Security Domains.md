@@ -12,4 +12,5 @@ E.g. if a change is made to a federal compliance regulation such as the Health I
 
 # 3. Security architecture and engineering
 
-> optimized
+> Optimizes  data security by ensuring effective tools, systems, and processes are in place.
+

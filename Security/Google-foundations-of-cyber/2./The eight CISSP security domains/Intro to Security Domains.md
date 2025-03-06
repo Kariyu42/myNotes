@@ -1,7 +1,7 @@
 
 ## Definition of CISSP:
 
-Certified Information Systems Security Professional
+**Certified Information Systems Security Professional**
 
 The domains can help you better understand how a security analyst's job duties can be organized into categories. Additionally, the **domains** can help establish an understanding of how to manage risk.
 

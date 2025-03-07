@@ -40,11 +40,3 @@
 **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
 
 **Watering hole attack**: A type of attack when a threat actor compromises a website frequently visited by a specific group of users
-
-Mark as completed
-
-Like
-
-Dislike
-
-Report an issue

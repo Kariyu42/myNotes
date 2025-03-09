@@ -16,4 +16,6 @@ They are guidelines for building plans to help mitigate risk and threats to data
 
 ![[Components.png]]
 
-1. Ident
+1. Identifying and documenting security goals
+2. Settings guidelines to achieve security goals
+3. Implementing strong security processes

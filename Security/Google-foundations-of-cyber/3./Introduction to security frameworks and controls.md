@@ -20,3 +20,7 @@ They are guidelines for building plans to help mitigate risk and threats to data
 2. Settings guidelines to achieve security goals
 3. Implementing strong security processes
 4. Monitoring and communicating results
+
+### Security controls: What is it?
+
+Safeguards designed to reduce specific security risks.

@@ -11,4 +11,9 @@ They are guidelines for building plans to help mitigate risk and threats to data
 - Managinz organizational risks
 - Aligning security with business goals
 
+---
+# Components of Security frameworks
+
 ![[Components.png]]
+
+1. Ident

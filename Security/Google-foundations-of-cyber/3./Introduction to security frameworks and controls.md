@@ -10,3 +10,4 @@ They are guidelines for building plans to help mitigate risk and threats to data
 - Identifyinng security weaknesses
 - Managinz organizational risks
 - Aligning security with business goals
+

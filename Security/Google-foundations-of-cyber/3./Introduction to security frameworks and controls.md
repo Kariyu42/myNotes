@@ -24,3 +24,7 @@ They are guidelines for building plans to help mitigate risk and threats to data
 ### Security controls: What is it?
 
 Safeguards designed to reduce specific security risks.
+
+### CIA Triad: What is it?
+
+	A foundational model that helps inform

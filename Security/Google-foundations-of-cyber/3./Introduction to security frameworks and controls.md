@@ -29,5 +29,7 @@ Safeguards designed to reduce specific security risks.
 
 A foundational model that helps inform how organizations consider risk when setting up systems and security policies.
 
-#nist #csf #cyber #secu
+#nist #csf #cyber #security 
 ## U.S.-based National Institute of Standards and Technology: the Cybersecurity Framework, also referred to as the NIST CSF
+
+It is a voluntary

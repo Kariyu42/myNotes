@@ -29,6 +29,8 @@ Safeguards designed to reduce specific security risks.
 
 A foundational model that helps inform how organizations consider risk when setting up systems and security policies.
 
+![[Pasted image 20250310133318.png]]
+
 ---
 
 #nist #csf #cyber #security 

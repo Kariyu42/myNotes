@@ -47,4 +47,9 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 - Confidentiality, Integrity, Availability (CIA) are core cybersecurity principles.
 - Security controls are safegurads to mitigate risks, implemented alongside frameworks to ensure compliance.
 
-### 
+### Security Frameworks
+
+- Purpose: Provide structured guidelines to mitigate risks and ensure regulatory compliance
+- Core Components:
+	- Identifying security goals
+	- Setting guidelines

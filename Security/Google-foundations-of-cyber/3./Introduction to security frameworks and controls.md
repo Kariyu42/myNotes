@@ -44,4 +44,7 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 
 ### CIA Triad & Security Controls
 
-- Confidentiality, Integrity, a
+- Confidentiality, Integrity, Availability (CIA) are core cybersecurity principles.
+- Security controls are safegurads to mitigate risks, implemented alongside frameworks to ensure compliance.
+
+### 

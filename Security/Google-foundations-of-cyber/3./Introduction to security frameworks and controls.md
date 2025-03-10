@@ -39,3 +39,9 @@ A foundational model that helps inform how organizations consider risk when sett
 # The NIST CYBERSECURITY FRAMEWORK
 
 It is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+
+# Summary
+
+### CIA Triad & Security Controls
+
+- Confidentiality, Integrity, a

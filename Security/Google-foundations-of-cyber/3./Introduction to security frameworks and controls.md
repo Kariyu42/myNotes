@@ -58,4 +58,7 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 
 ### Compliance and Regulations
 
-- 
+- NIST (National Institute of Standards and Technology): Provides voluntary security frameworks.
+	- Examples:
+		- NIST Cybersecurty Framework (CSF)
+		- NIST R

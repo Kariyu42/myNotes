@@ -53,3 +53,9 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 - Core Components:
 	- Identifying security goals
 	- Setting guidelines
+	- Implementing security processes
+	- Monitoring and communicating results
+
+### Compliance and Regulations
+
+- 

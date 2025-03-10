@@ -8,7 +8,7 @@ They are guidelines for building plans to help mitigate risk and threats to data
 - Protect PII
 - Securing financial information
 - Identifyinng security weaknesses
-- Managinz organizational risks
+- Managing organizational risks
 - Aligning security with business goals
 
 ---

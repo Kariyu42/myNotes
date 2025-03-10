@@ -82,5 +82,3 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 
 - **Frameworks, controls, and compliance work together** to reduce cybersecurity risks.
 - **Security analysts must stay informed** about regulatory changes to protect organizations and individuals.
-
-4o

@@ -61,4 +61,6 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 - NIST (National Institute of Standards and Technology): Provides voluntary security frameworks.
 	- Examples:
 		- NIST Cybersecurty Framework (CSF)
-		- NIST R
+		- NIST Risk Management Framework (RMF)
+- Other Key Frameworks & Compliance Standards:
+	- FERC-NERC: Protects the U.S. power grid through

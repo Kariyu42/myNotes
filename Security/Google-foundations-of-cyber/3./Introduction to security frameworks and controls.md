@@ -32,4 +32,4 @@ A foundational model that helps inform how organizations consider risk when sett
 #nist #csf #cyber #security 
 ## U.S.-based National Institute of Standards and Technology: the Cybersecurity Framework, also referred to as the NIST CSF
 
-It is a voluntary framework that consists of standards, guidelines, and best p
+It is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk

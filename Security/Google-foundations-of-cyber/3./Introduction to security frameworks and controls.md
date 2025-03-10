@@ -62,5 +62,25 @@ It is a voluntary framework that consists of standards, guidelines, and best pra
 	- Examples:
 		- NIST Cybersecurty Framework (CSF)
 		- NIST Risk Management Framework (RMF)
-- Other Key Frameworks & Compliance Standards:
-	- FERC-NERC: Protects the U.S. power grid through
+- **Other Key Frameworks & Compliance Standards**:
+	- **FERC-NERC**: Protects the U.S. power grid through Critical Infrastructure Protections (CIP) standards.
+	- **FedRAMP**: Standardizes cloud security for U.S. federal agencies and third-party providers.
+    - **CIS (Center for Internet Security)**: Provides best practices and controls for system security.
+    - **GDPR (General Data Protection Regulation)**: Protects E.U. residents’ data and privacy rights.
+    - **PCI DSS (Payment Card Industry Data Security Standard)**: Ensures secure credit card processing.
+    - **HIPAA (Health Insurance Portability and Accountability Act)**: Protects patient health information.
+        - Governed by **Privacy, Security, and Breach Notification Rules**.
+    - **ISO (International Organization for Standardization)**: Sets global standards for various industries.
+    - **SOC 1 & SOC 2 (System and Organization Controls)**: Assesses financial compliance and risk in organizations.
+
+#### **Additional Regulations & Updates**
+
+- **U.S. Executive Order 14028**: Issued in 2021 to strengthen national cybersecurity.
+- **Security professionals must stay updated** on evolving regulations like the Gramm-Leach-Bliley Act and the Sarbanes-Oxley Act.
+
+#### **Key Takeaways**
+
+- **Frameworks, controls, and compliance work together** to reduce cybersecurity risks.
+- **Security analysts must stay informed** about regulatory changes to protect organizations and individuals.
+
+4o

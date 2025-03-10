@@ -40,25 +40,25 @@ A foundational model that helps inform how organizations consider risk when sett
 
 It is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
 
-# Summary
+# **Summary**
 
-### CIA Triad & Security Controls
+### **CIA Triad & Security Controls**
 
 - Confidentiality, Integrity, Availability (CIA) are core cybersecurity principles.
 - Security controls are safegurads to mitigate risks, implemented alongside frameworks to ensure compliance.
 
-### Security Frameworks
+### **Security Frameworks**
 
-- Purpose: Provide structured guidelines to mitigate risks and ensure regulatory compliance
-- Core Components:
+- **Purpose**: Provide structured guidelines to mitigate risks and ensure regulatory compliance
+- **Core Components**:
 	- Identifying security goals
 	- Setting guidelines
 	- Implementing security processes
 	- Monitoring and communicating results
 
-### Compliance and Regulations
+### **Compliance and Regulations**
 
-- NIST (National Institute of Standards and Technology): Provides voluntary security frameworks.
+- **NIST (National Institute of Standards and Technology)**: Provides voluntary security frameworks.
 	- Examples:
 		- NIST Cybersecurty Framework (CSF)
 		- NIST Risk Management Framework (RMF)

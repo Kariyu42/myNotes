@@ -5,4 +5,5 @@
 ### Work Done
 
 - Learning the use cases of [[Nmap]].
-- Made sure `python3` & ``
+- Made sure `python3` & `nmap` was installed.
+- 

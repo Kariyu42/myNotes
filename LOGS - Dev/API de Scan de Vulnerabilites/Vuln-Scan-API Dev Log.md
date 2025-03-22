@@ -6,4 +6,4 @@
 
 - Learning the use cases of [[Nmap]].
 - Made sure `python3` & `nmap` was installed.
-- 
+- Did the cmd: `pip install python-nmap fastapi uvicorn`

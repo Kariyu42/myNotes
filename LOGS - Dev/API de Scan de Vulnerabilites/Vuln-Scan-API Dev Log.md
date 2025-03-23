@@ -16,6 +16,8 @@
 ### 🚀 Next Steps
 
 - Implement vulnerability detection
+
+---
 ## 2025-03-22 - Vulnerability Detection
 
 ### 🛠 Work Done

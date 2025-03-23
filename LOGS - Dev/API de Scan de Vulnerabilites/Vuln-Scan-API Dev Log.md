@@ -15,6 +15,16 @@
 
 ### 🚀 Next Steps
 
-- Implement vul
-## 2025-03-22 - API
+- Implement vulnerability detection
+## 2025-03-22 - Vulnerability Detection
+
+### 🛠 Work Done
+
+- 
+
+### 🔍 Issues & Challenges
+
+
+
+### 🚀 Next Steps
 

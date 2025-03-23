@@ -12,4 +12,4 @@
 
 ### Work Done
 
-- Utilize nmap
+- Utilize nmap with `-sV` option in order to scan open ports of a specified target, and identify the services being used. (HTTPS})

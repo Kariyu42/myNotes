@@ -1,5 +1,3 @@
-# Part 3 — Defense walkthrough
-
 **Defense date:** October 16, 2026
 
 **References:** [Subject, section IV.3](../tmp/en.subject.pdf) · [Evaluation sheet, Part 3](../tmp/42.EvalHub.pdf)
